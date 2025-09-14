@@ -1,2 +1,6 @@
-# Guess-Win-DSA-Project
-This project is a console-based interactive game where:  A Guesser selects a secret number.  Three Players each try to guess the number.  An Umpire collects all guesses, compares them, and declares the winners.  The game can be extended to multiple rounds, different numbers of players, and advanced features like score tracking.
+# Guess Win DSA Project : 1
+Make a C++ program called Guess & Win. In this game: A Guesser chooses a secret number. Three Players each guess a number. An Umpire collects all numbers and compares them.
+The Umpire decides who wins:
+If a player’s number matches the Guesser’s number → that player wins.
+If more than one player matches → those players win together.
+If nobody matches → all players lose.
